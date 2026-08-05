@@ -96,7 +96,7 @@ def layout(slug, title, desc, body):
 {body}
 </div>
 <footer><div class="wrap">
-<p>© 2026 ClearGridStudios · Spreadsheets &amp; templates, mechanically tested before we sell them.</p>
+<p>© 2026 ClearGridStudios · Every cell checked before it ships.</p>
 <p><a href="{GUMROAD}">Gumroad store</a> · <a href="{ETSY}">Etsy shop</a> · <a href="about.html">About</a></p>
 </div></footer>
 </body>
@@ -119,11 +119,11 @@ def cta(text, url, label):
 PAGES = {}
 
 PAGES["index"] = (
-    "ClearGridStudios — Spreadsheet Templates That Actually Work",
+    "ClearGridStudios — Spreadsheets You Can Count On",
     "Job search trackers, wedding planners, landlord spreadsheets, and ATS resume templates for Excel & Google Sheets. Every formula verified before release.",
     f"""
 <div class="hero">
-<h1>Spreadsheets with formulas that <em>actually</em> work</h1>
+<h1>Spreadsheets with formulas you can <em>count on</em></h1>
 <p>Job-search trackers, wedding planners, landlord bookkeeping, and ATS-safe resume templates — built for Excel and Google Sheets, and mechanically tested before we sell them. No broken formulas, no decorative junk.</p>
 <a class="btn" href="{GUMROAD}">Shop on Gumroad</a><a class="btn ghost" href="{ETSY}">Shop on Etsy</a>
 </div>
