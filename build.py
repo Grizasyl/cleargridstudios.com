@@ -79,6 +79,7 @@ def layout(slug, title, desc, body):
 <meta property="og:title" content="{html.escape(title)}">
 <meta property="og:description" content="{html.escape(desc)}">
 <meta property="og:type" content="website">
+<meta name="p:domain_verify" content="c6eddd83d54ee4cae3e0228343f279e9"/>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
