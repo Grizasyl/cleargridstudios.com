@@ -97,7 +97,7 @@ def layout(slug, title, desc, body):
 </div>
 <footer><div class="wrap">
 <p>© 2026 ClearGridStudios · Every cell checked before it ships.</p>
-<p><a href="{GUMROAD}">Gumroad store</a> · <a href="{ETSY}">Etsy shop</a> · <a href="about.html">About</a></p>
+<p><a href="{GUMROAD}">Gumroad store</a> · <a href="{ETSY}">Etsy shop</a> · <a href="mailto:hello@cleargridstudios.com">hello@cleargridstudios.com</a> · <a href="about.html">About</a></p>
 </div></footer>
 </body>
 </html>"""
@@ -257,7 +257,7 @@ PAGES["about"] = (
 <p>Every product is <strong>mechanically verified before it's listed</strong>. For spreadsheets, that means a test suite evaluates the actual workbook and checks every formula against independently computed results — totals, mortgage payments, tax-category rollups, seating counts. For resume templates, we verify the ATS-safety claims directly: zero tables, zero graphics, empty headers, sections that extract in order exactly the way a parser reads them. If a check fails, it doesn't ship.</p>
 <p>We're honest about our process: products are designed with AI assistance and disclosed as such on every marketplace listing. The verification step is the point — claims you can test beat claims you have to trust.</p>
 <h2>Where to buy</h2>
-<p>Everything is available on <a href="{GUMROAD}">Gumroad</a> (instant download) and on <a href="{ETSY}">Etsy</a>. Something broken or confusing? Message us through either store — because these are instant digital downloads we can't offer returns, but we will make it right.</p>
+<p>Everything is available on <a href="{GUMROAD}">Gumroad</a> (instant download) and on <a href="{ETSY}">Etsy</a>. Something broken or confusing? Email <a href="mailto:hello@cleargridstudios.com">hello@cleargridstudios.com</a> or message us through either store — because these are instant digital downloads we can't offer returns, but we will make it right.</p>
 </article>
 """
 )
