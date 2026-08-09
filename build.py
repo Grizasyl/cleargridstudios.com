@@ -125,7 +125,7 @@ PAGES = {}
 
 PAGES["index"] = (
     "ClearGridStudios — Spreadsheets You Can Count On",
-    "Job search trackers, wedding planners, landlord spreadsheets, and ATS resume templates for Excel & Google Sheets. Every formula verified before release.",
+    "Job search trackers, wedding planners, landlord and freelancer bookkeeping, and ATS resume templates for Excel & Google Sheets. Every formula verified before release.",
     f"""
 <div class="hero">
 <h1>Spreadsheets with formulas you can <em>count on</em></h1>
