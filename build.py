@@ -129,7 +129,7 @@ PAGES["index"] = (
     f"""
 <div class="hero">
 <h1>Spreadsheets with formulas you can <em>count on</em></h1>
-<p>Job-search trackers, wedding planners, landlord bookkeeping, and ATS-safe resume templates — built for Excel and Google Sheets, and mechanically tested before we sell them. No broken formulas, no decorative junk.</p>
+<p>Job-search trackers, wedding planners, landlord and freelancer bookkeeping, and ATS-safe resume templates — built for Excel and Google Sheets, and mechanically tested before we sell them. No broken formulas, no decorative junk.</p>
 <a class="btn" href="{GUMROAD}">Shop on Gumroad</a><a class="btn ghost" href="{ETSY}">Shop on Etsy</a>
 </div>
 <h2 style="color:var(--navy)">The catalog</h2>
@@ -257,7 +257,7 @@ PAGES["about"] = (
     f"""
 <article>
 <h1>About ClearGridStudios</h1>
-<p>ClearGridStudios makes digital templates — spreadsheets for job searches, weddings, and rental properties, plus ATS-safe resume templates — for Excel, Google Sheets, and Word.</p>
+<p>ClearGridStudios makes digital templates — spreadsheets for job searches, weddings, rental properties, and self-employed bookkeeping, plus ATS-safe resume templates — for Excel, Google Sheets, and Word.</p>
 <h2>The one thing we do differently</h2>
 <p>Every product is <strong>mechanically verified before it's listed</strong>. For spreadsheets, that means a test suite evaluates the actual workbook and checks every formula against independently computed results — totals, mortgage payments, tax-category rollups, seating counts. For resume templates, we verify the ATS-safety claims directly: zero tables, zero graphics, empty headers, sections that extract in order exactly the way a parser reads them. If a check fails, it doesn't ship.</p>
 <p>We're honest about our process: products are designed with AI assistance and disclosed as such on every marketplace listing. The verification step is the point — claims you can test beat claims you have to trust.</p>
