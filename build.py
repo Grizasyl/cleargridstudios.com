@@ -24,6 +24,10 @@ PRODUCTS = [
      "Cash flow, cap rate, cash-on-cash, DSCR, and a 3-deal comparison — before you offer."),
     ("Landlord Income & Expense Tracker", "16.99", f"{GUMROAD}/l/landlordtracker",
      "Schedule-E-aligned bookkeeping with a tax summary that reads straight onto the form."),
+    ("ATS Resume Template — Modern", "12.99", f"{GUMROAD}/l/atsresumemodern",
+     "The same parse-tested single-column bundle with a teal, contemporary look."),
+    ("Freelancer Income & Expense Tracker", "16.99", f"{GUMROAD}/l/freelancertracker",
+     "Schedule-C bookkeeping with quarterly estimated tax, mileage, and per-client income."),
 ]
 
 CSS = """
