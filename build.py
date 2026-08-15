@@ -28,6 +28,14 @@ PRODUCTS = [
      "The same parse-tested single-column bundle with a teal, contemporary look."),
     ("Freelancer Income & Expense Tracker", "16.99", f"{GUMROAD}/l/freelancertracker",
      "Schedule-C bookkeeping with quarterly estimated tax, mileage, and per-client income."),
+    ("Short-Term Rental P&L Tracker", "16.99", f"{GUMROAD}/l/strtracker",
+     "Occupancy, ADR and RevPAR computed from your bookings — monthly and per listing."),
+    ("Job Offer Comparison & Salary Negotiation Calculator", "12.99", f"{GUMROAD}/l/offercompare",
+     "Five offers ranked on total compensation — equity, match, benefits, commute, cost of living."),
+    ("Interview Prep Kit", "10.99", f"{GUMROAD}/l/interviewprepkit",
+     "A STAR story bank, a practiced-question log, and company research notes — with a readiness dashboard."),
+    ("CapEx Reserve & Replacement Schedule", "12.99", f"{GUMROAD}/l/capexschedule",
+     "Know what breaks next, and whether you've saved enough for it — due-now/due-soon flags and reserve coverage."),
 ]
 
 CSS = """
