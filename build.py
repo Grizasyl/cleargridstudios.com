@@ -36,6 +36,14 @@ PRODUCTS = [
      "A STAR story bank, a practiced-question log, and company research notes — with a readiness dashboard."),
     ("CapEx Reserve & Replacement Schedule", "12.99", f"{GUMROAD}/l/capexschedule",
      "Know what breaks next, and whether you've saved enough for it — due-now/due-soon flags and reserve coverage."),
+    ("Salary Negotiation Tracker", "11.99", f"{GUMROAD}/l/salarynegotiation",
+     "Market research, a target/walk-away range, a talking-points script, and a round-by-round negotiation log."),
+    ("BRRRR Deal Calculator", "15.99", f"{GUMROAD}/l/brrrrcalculator",
+     "All-in cost, ARV, refinance loan and cash-out, cash left in the deal, and the resulting cash-on-cash return."),
+    ("Tenant Move-In/Move-Out & Deposit Tracker", "14.99", f"{GUMROAD}/l/tenanttracker",
+     "Room-by-room condition at move-in and move-out, with the deposit refund — or amount owed — computed automatically."),
+    ("Career Change Skills Gap Tracker", "11.99", f"{GUMROAD}/l/careerchangetracker",
+     "Your skills matched by exact name against the target role's requirements — sorted into Have, must-fix, or nice-to-have."),
 ]
 
 CSS = """
