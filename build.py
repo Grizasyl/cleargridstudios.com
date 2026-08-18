@@ -44,6 +44,10 @@ PRODUCTS = [
      "Room-by-room condition at move-in and move-out, with the deposit refund — or amount owed — computed automatically."),
     ("Career Change Skills Gap Tracker", "11.99", f"{GUMROAD}/l/careerchangetracker",
      "Your skills matched by exact name against the target role's requirements — sorted into Have, must-fix, or nice-to-have."),
+    ("New Job 90-Day Onboarding Planner", "8.99", f"{GUMROAD}/l/newjobonboarding",
+     "30/60/90-day goals, a stakeholder map, a wins log, and a manager check-in log — for after you start."),
+    ("Tenant Screening & Applicant Comparison Tracker", "13.99", f"{GUMROAD}/l/tenantscreening",
+     "Income-to-rent ratio, credit/background/eviction status, and a 0-10 score that ranks every applicant per unit."),
 ]
 
 CSS = """
