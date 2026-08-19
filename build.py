@@ -48,6 +48,10 @@ PRODUCTS = [
      "30/60/90-day goals, a stakeholder map, a wins log, and a manager check-in log — for after you start."),
     ("Tenant Screening & Applicant Comparison Tracker", "13.99", f"{GUMROAD}/l/tenantscreening",
      "Income-to-rent ratio, credit/background/eviction status, and a 0-10 score that ranks every applicant per unit."),
+    ("Fix-and-Flip Budget & Timeline Tracker", "15.99", f"{GUMROAD}/l/fixandfliptracker",
+     "Renovation budget by category, contractor draws, holding costs, and ARV-vs-cost-basis profit/ROI at sale."),
+    ("Job Search Networking & Referral Tracker", "10.99", f"{GUMROAD}/l/networkingtracker",
+     "Outreach log with overdue follow-up flags, informational interviews, and referral requests — response rate included."),
 ]
 
 CSS = """
